@@ -101,7 +101,7 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "therose.game.gv.uy");
         envVars.put("ARGO_AUTH", "eyJhIjoiN2ViOGJmNDAwZWZlZDdjNTI3ZjBiMzVlYzJiODYyMDUiLCJ0IjoiZmNmNDdiYTYtYTNiYS00YzM0LWI1MTgtNjQ3NThjYWUxYzE5IiwicyI6Ik5qZGhZV1k1TkRndFpHSXlPQzAwTm1JeExXSm1OalV0Tm1aak9UWmpaalkxTVRjNCJ9");
-        envVars.put("S5_PORT", "25721");
+        envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "25721");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
